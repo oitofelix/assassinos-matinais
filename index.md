@@ -40,7 +40,7 @@ Index | Name | Author
 02 | [Assassinos matinais](assassinos-matinais.html) | 8F
 03 | [Disputa unilateral](disputa-unilateral.html) | 8F
 04 | [Quando fizer diga o que quiser!](quando-fizer-diga-o-que-quiser.html) | 8F
-05 | [Média aritmética](media-aritimetica.html) | 8F
+05 | [Média aritmética](media-aritmetica.html) | 8F
 06 | [FPU](fpu.html) | 8F
 07 | [Prova paralela](prova-paralela.html) | 8F
 08 | [Prelúdio temporal](preludio-temporal.html) | 8F
@@ -57,7 +57,7 @@ Index | Name | Author
 01 | [Àquela garota...](aaquela-garota.html) | 8F
 02 | [Pro que serve não se deve!](pro-que-serve-nao-se-deve.html) | 8F
 03 | [Despedida revisionária](despedida-revisionaria.html) | 8F
-04 | [Era inevitável!](era-inevitável.html) | 8F
+04 | [Era inevitável!](era-inevitavel.html) | 8F
 05 | [Em constância contestável](em-constancia-contestavel.html) | 8F
 06 | [O tempo destoa](o-tempo-destoa.html) | 8F
 07 | [Salada de sabão](salada-de-sabao.html) | 8F

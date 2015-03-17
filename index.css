@@ -1,0 +1,12 @@
+#markdown img {
+    display: block;
+    width: 640px;
+    height: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 4px solid navy;
+}
+
+#markdown h3 {
+    margin-bottom: 0px;
+}

@@ -31,6 +31,7 @@ critic, ironic and rhetoric tone, in which melancholy is defined as
 the mixed feeling of sadness and amusement caused by helplessness in
 face of an invariable and universal truth.
 
+![Assassinos Matinais Logo](assmat-logo.jpg)
 
 ### Aquela Garota
 

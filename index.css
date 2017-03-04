@@ -10,3 +10,8 @@
 #markdown h3 {
     margin-bottom: 0px;
 }
+
+audio {
+    margin-left: auto;
+    margin-right: auto;
+}

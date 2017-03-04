@@ -12,9 +12,10 @@ layout: oitofelix-homepage
 <audio controls>
   <source src="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.mp3" type="audio/mp3">
   <source src="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg" type="audio/ogg">
-  <a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.mp3">MP3</a>
-  <a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg">OGG</a>
 </audio>
+
+<a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.mp3">MP3</a>
+<a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg">OGG</a>
 
 <pre class="poem">
 (beleza e pureza sem igual!)

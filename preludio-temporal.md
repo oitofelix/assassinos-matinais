@@ -14,8 +14,10 @@ layout: oitofelix-homepage
   <source src="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg" type="audio/ogg">
 </audio>
 
+<div class="links">
 <a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.mp3">MP3</a>
 <a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg">OGG</a>
+</div>
 
 <pre class="poem">
 (beleza e pureza sem igual!)

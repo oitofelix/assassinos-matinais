@@ -9,7 +9,7 @@ layout: oitofelix-homepage
 <div id="markdown" markdown="1">
 ## Prelúdio temporal
 
-<video controls>
+<video width="320" height="240" controls>
   <source src="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg" type="video/ogg">
   <a href="https://github.com/oitofelix/assassinos-matinais/releases/download/preludio-temporal/Preludio.Temporal.ogg">Music File</a>
 </video>

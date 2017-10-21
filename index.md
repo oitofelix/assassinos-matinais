@@ -37,70 +37,70 @@ face of an invariable and universal truth.
 
 Index | Name | Author
 ------|------|--------
-01 | [Aquela garota...](aquela-garota.html) | 8F
-02 | [Assassinos matinais](assassinos-matinais.html) | 8F
-03 | [Disputa unilateral](disputa-unilateral.html) | 8F
-04 | [Quando fizer diga o que quiser!](quando-fizer-diga-o-que-quiser.html) | 8F
-05 | [Média aritmética](media-aritmetica.html) | 8F
-06 | [FPU](fpu.html) | 8F
-07 | [Prova paralela](prova-paralela.html) | 8F
-08 | [Prelúdio temporal](preludio-temporal.html) | 8F
-09 | [Campo de contenção](campo-de-contencao.html) | 8F
-10 | [Parece](parece.html) | 8F
-11 | [Rara pureza parada](rara-pureza-parada.html) | 8F
-12 | [Luminosidade absoluta, relatividade sombreada](luminosidade-absoluta-relatividade-sombreada.html) | 8F
+01 | [Aquela garota...](assassinos-matinais/aquela-garota.html) | 8F
+02 | [Assassinos matinais](assassinos-matinais/assassinos-matinais.html) | 8F
+03 | [Disputa unilateral](assassinos-matinais/disputa-unilateral.html) | 8F
+04 | [Quando fizer diga o que quiser!](assassinos-matinais/quando-fizer-diga-o-que-quiser.html) | 8F
+05 | [Média aritmética](assassinos-matinais/media-aritmetica.html) | 8F
+06 | [FPU](assassinos-matinais/fpu.html) | 8F
+07 | [Prova paralela](assassinos-matinais/prova-paralela.html) | 8F
+08 | [Prelúdio temporal](assassinos-matinais/preludio-temporal.html) | 8F
+09 | [Campo de contenção](assassinos-matinais/campo-de-contencao.html) | 8F
+10 | [Parece](assassinos-matinais/parece.html) | 8F
+11 | [Rara pureza parada](assassinos-matinais/rara-pureza-parada.html) | 8F
+12 | [Luminosidade absoluta, relatividade sombreada](assassinos-matinais/luminosidade-absoluta-relatividade-sombreada.html) | 8F
 
 
 ### Àquela garota
 
 Index | Name | Author
 ------|------|--------
-01 | [Àquela garota...](aaquela-garota.html) | 8F
-02 | [Pro que serve não se deve!](pro-que-serve-nao-se-deve.html) | 8F
-03 | [Despedida revisionária](despedida-revisionaria.html) | 8F
-04 | [Era inevitável!](era-inevitavel.html) | 8F
-05 | [Em constância contestável](em-constancia-contestavel.html) | 8F
-06 | [O tempo destoa](o-tempo-destoa.html) | 8F
-07 | [Salada de sabão](salada-de-sabao.html) | 8F
-08 | [Magnificência para uma máscara!](magnificencia-para-uma-mascara.html) | Tilim
-09 | [Boa nova lição](boa-nova-licao.html) | Tilim
-10 | [Pretérito imperfeito](preterito-imperfeito.html) | Tilim
-11 | [Pseudologia](pseudologia.html) | Tilim
-12 | [Apoteose](apoteose.html) | Tilim
+01 | [Àquela garota...](assassinos-matinais/aaquela-garota.html) | 8F
+02 | [Pro que serve não se deve!](assassinos-matinais/pro-que-serve-nao-se-deve.html) | 8F
+03 | [Despedida revisionária](assassinos-matinais/despedida-revisionaria.html) | 8F
+04 | [Era inevitável!](assassinos-matinais/era-inevitavel.html) | 8F
+05 | [Em constância contestável](assassinos-matinais/em-constancia-contestavel.html) | 8F
+06 | [O tempo destoa](assassinos-matinais/o-tempo-destoa.html) | 8F
+07 | [Salada de sabão](assassinos-matinais/salada-de-sabao.html) | 8F
+08 | [Magnificência para uma máscara!](assassinos-matinais/magnificencia-para-uma-mascara.html) | Tilim
+09 | [Boa nova lição](assassinos-matinais/boa-nova-licao.html) | Tilim
+10 | [Pretérito imperfeito](assassinos-matinais/preterito-imperfeito.html) | Tilim
+11 | [Pseudologia](assassinos-matinais/pseudologia.html) | Tilim
+12 | [Apoteose](assassinos-matinais/apoteose.html) | Tilim
 
 
 ### Fuga ao tema
 
 Index | Name | Author
 ------|------|--------
-01 | [Fuga ao tema](fuga-ao-tema.html) | 8F
-02 | [A física triplamente terceirizada](a-fisica-triplamente-terceirizada.html) | 8F
-03 | [Logologia](logologia.html) | 8F
-04 | [Sejamos realistas](sejamos-realistas.html) | 8F
-05 | [Imperativo categórico!](imperativo-categorico.html) | 8F
-06 | [Quantidade qualitativa](quantidade-qualitativa.html) | 8F
-07 | [Temporal preliminar](temporal-preliminar.html) | Tilim
-08 | [Ironia momentânea](ironia-momentanea.html) | Tilim
-09 | [Seqüestraram o português!](sequestraram-o-portugues.html) | Tilim
-10 | [Antropoegocentrismo](antropoegocentrismo.html) | Tilim
-11 | [Apogeu](apogeu.html) | Tilim
-12 | [Desordem e retrocesso](desordem-e-retrocesso.html) | Tilim
+01 | [Fuga ao tema](assassinos-matinais/fuga-ao-tema.html) | 8F
+02 | [A física triplamente terceirizada](assassinos-matinais/a-fisica-triplamente-terceirizada.html) | 8F
+03 | [Logologia](assassinos-matinais/logologia.html) | 8F
+04 | [Sejamos realistas](assassinos-matinais/sejamos-realistas.html) | 8F
+05 | [Imperativo categórico!](assassinos-matinais/imperativo-categorico.html) | 8F
+06 | [Quantidade qualitativa](assassinos-matinais/quantidade-qualitativa.html) | 8F
+07 | [Temporal preliminar](assassinos-matinais/temporal-preliminar.html) | Tilim
+08 | [Ironia momentânea](assassinos-matinais/ironia-momentanea.html) | Tilim
+09 | [Seqüestraram o português!](assassinos-matinais/sequestraram-o-portugues.html) | Tilim
+10 | [Antropoegocentrismo](assassinos-matinais/antropoegocentrismo.html) | Tilim
+11 | [Apogeu](assassinos-matinais/apogeu.html) | Tilim
+12 | [Desordem e retrocesso](assassinos-matinais/desordem-e-retrocesso.html) | Tilim
 
 
 ### Prelúdio-Temporal-Preliminar
 
 Index | Name | Author
 ------|------|--------
-01 | [Prelúdio-temporal-preliminar](preludio-temporal-preliminar.html) | 8F
-02 | [Consolável escuridão](consolavel-escuridao.html) | 8F
-03 | [Resolução infinita](resolucao-infinita.html) | 8F
-04 | [Bacana-sacana](bacana-sacana.html) | 8F
-05 | [Comunhão de cicatrizes](comunhao-de-cicatrizes.html) | Tilim
-06 | [Acróstico em PTP](acrostico-em-ptp.html) | Tilim
-07 | [Epílogo](epilogo.html) | Tilim
-08 | [Persuadindo a persuasão](persuadindo-a-persuasao.html) | Tilim
-09 | [Alienado](alienado.html) | Tilim
-10 | [Terra do nunca](terra-do-nunca.html) | Tilim
+01 | [Prelúdio-temporal-preliminar](assassinos-matinais/preludio-temporal-preliminar.html) | 8F
+02 | [Consolável escuridão](assassinos-matinais/consolavel-escuridao.html) | 8F
+03 | [Resolução infinita](assassinos-matinais/resolucao-infinita.html) | 8F
+04 | [Bacana-sacana](assassinos-matinais/bacana-sacana.html) | 8F
+05 | [Comunhão de cicatrizes](assassinos-matinais/comunhao-de-cicatrizes.html) | Tilim
+06 | [Acróstico em PTP](assassinos-matinais/acrostico-em-ptp.html) | Tilim
+07 | [Epílogo](assassinos-matinais/epilogo.html) | Tilim
+08 | [Persuadindo a persuasão](assassinos-matinais/persuadindo-a-persuasao.html) | Tilim
+09 | [Alienado](assassinos-matinais/alienado.html) | Tilim
+10 | [Terra do nunca](assassinos-matinais/terra-do-nunca.html) | Tilim
 
 
 ![Assassinos Matinais](oitofelix-tilim.jpg)

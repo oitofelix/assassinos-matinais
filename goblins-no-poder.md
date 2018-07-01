@@ -38,7 +38,7 @@ Ignorância-repleta,
 Discurso de ódio:
 Por ódio irá morrer!
 
-A construção social opressiva,
+A construção social opressiva
 E o privilégio não nos deixam ver...
 Que sexo e lógica se curvam ao mimo;
 Sem nenhum direito de criticar ou ofender;

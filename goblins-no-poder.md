@@ -43,7 +43,7 @@ Construção social (opressiva),
 O privilégio não deixa ver...
 Que sexo e lógica se curvam ao mimo;
 Sem direito de criticar-ofender;
-Ego-cêntrico poder!
+Ego-cêntrico é seu poder!
 
 Quando a lua se vai,
 O sol ajuda a ver:

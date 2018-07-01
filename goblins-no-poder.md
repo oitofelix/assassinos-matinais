@@ -49,7 +49,8 @@ Quando a lua se vai,
 O sol ajuda a ver:
 Infantos confusos,
 Voltando pra casa;
-Um dia, os Góblins irão crescer!
+(Talvez, um dia)
+Os Góblins irão crescer!
 </pre>
 
 </div>

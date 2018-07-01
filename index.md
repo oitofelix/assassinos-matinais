@@ -33,7 +33,7 @@ face of an invariable and universal truth.
 
 ![Assassinos Matinais Logo](assmat-logo.jpg)
 
-### Aquela Garota
+### Aquela Garota...
 
 Index | Name | Author
 ------|------|--------
@@ -51,7 +51,7 @@ Index | Name | Author
 12 | [Luminosidade absoluta, relatividade sombreada](assassinos-matinais/luminosidade-absoluta-relatividade-sombreada.html) | 8F
 
 
-### Àquela Garota
+### Àquela Garota...
 
 Index | Name | Author
 ------|------|--------
@@ -63,7 +63,7 @@ Index | Name | Author
 06 | [O tempo destoa](assassinos-matinais/o-tempo-destoa.html) | 8F
 07 | [Salada de sabão](assassinos-matinais/salada-de-sabao.html) | 8F
 08 | [Magnificência para uma máscara!](assassinos-matinais/magnificencia-para-uma-mascara.html) | Tilim
-09 | [Boa nova lição](assassinos-matinais/boa-nova-licao.html) | Tilim
+09 | [Boa-nova-lição](assassinos-matinais/boa-nova-licao.html) | Tilim
 10 | [Pretérito imperfeito](assassinos-matinais/preterito-imperfeito.html) | Tilim
 11 | [Pseudologia](assassinos-matinais/pseudologia.html) | Tilim
 12 | [Apoteose](assassinos-matinais/apoteose.html) | Tilim
@@ -95,12 +95,13 @@ Index | Name | Author
 02 | [Consolável escuridão](assassinos-matinais/consolavel-escuridao.html) | 8F
 03 | [Resolução infinita](assassinos-matinais/resolucao-infinita.html) | 8F
 04 | [Bacana-sacana](assassinos-matinais/bacana-sacana.html) | 8F
-05 | [Comunhão de cicatrizes](assassinos-matinais/comunhao-de-cicatrizes.html) | Tilim
-06 | [Acróstico em PTP](assassinos-matinais/acrostico-em-ptp.html) | Tilim
-07 | [Epílogo](assassinos-matinais/epilogo.html) | Tilim
-08 | [Persuadindo a persuasão](assassinos-matinais/persuadindo-a-persuasao.html) | Tilim
-09 | [Alienado](assassinos-matinais/alienado.html) | Tilim
-10 | [Terra do nunca](assassinos-matinais/terra-do-nunca.html) | Tilim
+05 | [Góblins no poder!](assassinos-matinais/goblins-no-poder.html) | 8F
+06 | [Comunhão de cicatrizes](assassinos-matinais/comunhao-de-cicatrizes.html) | Tilim
+07 | [Acróstico em PTP](assassinos-matinais/acrostico-em-ptp.html) | Tilim
+08 | [Epílogo](assassinos-matinais/epilogo.html) | Tilim
+09 | [Persuadindo a persuasão](assassinos-matinais/persuadindo-a-persuasao.html) | Tilim
+10 | [Alienado](assassinos-matinais/alienado.html) | Tilim
+11 | [Terra do nunca](assassinos-matinais/terra-do-nunca.html) | Tilim
 
 
 ![Assassinos Matinais](oitofelix-tilim.jpg)

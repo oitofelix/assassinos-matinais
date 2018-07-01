@@ -30,7 +30,7 @@ Clamando razão --- sensatos serão:
 Os que não quiserem ver.
 Pois tão certos estão,
 (Velados-ditados)
-De "Bondade" e poder!
+De "Igualdade" e poder!
 
 Com um milhão de histórias
 "A verdade... não pode ser!"

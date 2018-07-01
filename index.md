@@ -51,7 +51,7 @@ Index | Name | Author
 12 | [Luminosidade absoluta, relatividade sombreada](assassinos-matinais/luminosidade-absoluta-relatividade-sombreada.html) | 8F
 
 
-### Àquela garota
+### Àquela Garota
 
 Index | Name | Author
 ------|------|--------
@@ -69,7 +69,7 @@ Index | Name | Author
 12 | [Apoteose](assassinos-matinais/apoteose.html) | Tilim
 
 
-### Fuga ao tema
+### Fuga ao Tema
 
 Index | Name | Author
 ------|------|--------

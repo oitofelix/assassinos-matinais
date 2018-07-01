@@ -18,7 +18,7 @@ Parados na esquina;
 Góblins no poder!
 
 Numa aventura completa,
-Reacionária repleta,
+Reacionária-repleta,
 Sábios não podem crer
 Que pela madrugada vagam
 Delírios alados,
@@ -35,7 +35,7 @@ De "Igualdade" e poder!
 Com um milhão de histórias
 "A verdade... não pode ser!"
 Tomam à força,
-Ignorância repleta,
+Ignorância-repleta,
 Discurso de ódio:
 Por ódio irá morrer!
 

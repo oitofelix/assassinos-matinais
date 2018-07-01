@@ -43,7 +43,7 @@ Sócio-construído-opressivo,
 O privilégio não deixa ver...
 Que sexo e lógica se curvam ao mimo;
 Direito não há de criticar-ofender;
-(Nenhum argumento pode provar)
+(Nenhum argumento é capaz de provar)
 Egocêntrico poder!
 
 Quando a lua se vai,

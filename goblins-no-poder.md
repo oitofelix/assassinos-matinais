@@ -42,7 +42,7 @@ Por ódio irá morrer!
 Construção social (opressiva),
 O privilégio não deixa ver...
 Que sexo e lógica se curvam ao mimo;
-Não há direito de criticar-ofender;
+Sem direito de criticar-ofender;
 Ego-cêntrico poder!
 
 Quando a lua se vai,

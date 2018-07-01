@@ -39,9 +39,9 @@ Discurso de ódio:
 Por ódio irá morrer!
 
 Construção social (opressiva),
-O privilégio não deixa ver...
+O privilégio não nos deixa ver...
 Que sexo e lógica se curvam ao mimo;
-Nenhum direito de criticar ou ofender;
+Sem nenhum direito de criticar ou ofender;
 Egocêntrico é seu poder!
 
 Quando a lua se vai,

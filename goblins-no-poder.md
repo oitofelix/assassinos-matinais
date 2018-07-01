@@ -22,7 +22,7 @@ Reacionária-repleta,
 Sábios não podem crer
 Que pela madrugada vagam
 Delírios alados,
-De "Justiça" e poder!
+De "Respeito" e poder!
 
 Quando um "déspota" vem,
 A contradizer...

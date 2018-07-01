@@ -17,7 +17,6 @@ Parados na esquina;
 Góblins no poder!
 
 Numa aventura completa,
-Reacionária-repleta,
 Sábios não podem crer
 Que pela madrugada vagam
 Delírios alados,
@@ -25,16 +24,14 @@ De "Respeito" e poder!
 
 Quando um "déspota" vem,
 A contradizer...
-Clamando razão --- sensatos serão:
-Os que não quiserem ver.
-Pois tão certos estão,
-(Velados-ditados)
+Clamando razão, sensato senão?
+Seu sangue terão,
+Pois certos estão,
 De "Igualdade" e poder!
 
 Com um milhão de histórias
 "A verdade... não pode ser!"
 Tomam à força,
-Ignorância-repleta,
 Discurso de ódio:
 Por ódio irá morrer!
 

@@ -20,7 +20,7 @@ Góblins no poder!
 Numa aventura completa,
 Reacionária repleta,
 Sábios não podem crer
-Que pela noite vagam
+Que pela madrugada vagam
 Delírios alados,
 De "Justiça" e poder!
 

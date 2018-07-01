@@ -26,7 +26,7 @@ Quando um "déspota" vem,
 A contradizer...
 Clamando razão, sensato senão?
 Seu sangue terão,
-Pois certos estão,
+(Pois certos estão)
 De "Igualdade" e poder!
 
 Com um milhão de histórias

@@ -14,6 +14,7 @@ Quando o sol se vai,
 A lua ajuda a ver:
 Seres de preto,
 Parados na esquina;
+(Por certo, à noite)
 Góblins no poder!
 
 Numa aventura completa,

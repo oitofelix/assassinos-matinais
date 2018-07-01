@@ -26,7 +26,7 @@ De "Justiça" e poder!
 Quando um "déspota" vem,
 A contradizer...
 Clamando razão --- sensatos serão:
-Os que não quiseram ver.
+Os que não quiserem ver.
 Pois tão certos estão,
 (Velados-ditados)
 De "Bondade" e poder!

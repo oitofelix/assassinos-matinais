@@ -23,7 +23,7 @@ A consolável escuridão!
 E a busca
 E a procura
 Naquele bosque
-cadê a cura?
+Cadê a cura?
 
 Esmeraldas ofuscadas
 Anjos em comunhão
